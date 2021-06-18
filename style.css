@@ -6,7 +6,7 @@
 }
 body{
     text-align: center;
-    background: #193549;
+    background: #37c20d;
 }
 h1{
     color: white;
@@ -14,6 +14,14 @@ h1{
     font-size:8rem;
 }
 .js{
-    color: yellow;
+    color: black;
     font-size:8rem;
 }
+.controls{
+    display: flex;
+    justify-content: center;
+    margin-top:4rem;
+    font-size:8rem;
+    color: white;
+}
+
